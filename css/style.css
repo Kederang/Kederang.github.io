@@ -12,11 +12,26 @@
 
 }
 
+/*added 7/23*/ 
+
+.text {
+    position: absolute;
+    bottom: 4px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+
+
+/*added 7/23 */
 .carousel__track-container {
-    background:navy;
+    background: lightskyblue;
     height: 100%;
     position:relative;
     overflow: hidden;
+    
 }
 
 .carousel__track {
